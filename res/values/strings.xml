@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LoginRegisterActivity!</string>
+    <string name="app_name">LoginRegister</string>
+    <string name="loginregister">登录注册</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="password">密     码</string>
+    <string name="username">用户名</string>
+    <string name="submit">提交</string>
+    <string name="sex">性别</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="age">年龄</string>
+    <string name="photo">照片</string>
+    <string name="up">上传图片</string>
+    <string name="select">选择头像</string>
+     <string name="explorer">选择文件</string>
+    <string name="upfile">上传文件</string>
+    <string name="dialog_read_from_dir">文件浏览器</string>
+    <string name="tip">(只支持jpg和png格式的图片)</string>
+
+</resources>
