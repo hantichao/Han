@@ -9,7 +9,7 @@ public class User implements Serializable{
 	private String sex;
 	private String age;
 	private String photo;
-	 
+	// 
 	private static final long serialVersionUID = 1692431541356358640L;
 	
 	public User () {
